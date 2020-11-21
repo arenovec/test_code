@@ -1,0 +1,32 @@
+/*
+
+    Author:  Hishnik  
+    E-mail:  arenovec@gmail.com    
+    skype:   kidw810i 
+
+    Copyright (C) 2017 Hishnik
+*/
+@font-face {
+    font-family: 'Roboto Thin Italic';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Roboto Thin Italic'), local('RobotoTh-Italic'),
+        url(/fonts/Roboto/RobotoThinItalic/roboto-thin-italic.woff) format('woff'),
+        url(/fonts/Roboto/RobotoThinItalic/roboto-thin-italic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Light';
+    font-weight: 400;
+    src: local('Roboto Light'), local('Roboto Light'),
+        url(/fonts/Roboto/RobotoLight/RobotoLight.woff) format('woff'),
+        url(/fonts/Roboto/RobotoLight/RobotoLight.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Regular';    
+    font-weight: 400;
+    src: local('Roboto Regular'), local('Roboto Regular'),
+        url(/fonts/Roboto/RobotoRegular/RobotoRegular.woff) format('woff'),
+        url(/fonts/Roboto/RobotoRegular/RobotoRegular.ttf) format('truetype');
+}
