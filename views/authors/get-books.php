@@ -10,7 +10,7 @@
 ?>
 <div class="authors-view">
 
-    <!-- Тут можно выводить через ListView, для текста вывожу через обычный цикл -->
+    <!-- Тут можно выводить через ListView, для теста вывожу через обычный цикл -->
 
     <h1>Список книг автора <a href="<?= yii\helpers\Url::toRoute(['/authors/view', 'id' => $model->id]) ?>"><?= $model->name ?></a></h1>
 
