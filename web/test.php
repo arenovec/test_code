@@ -1,3 +1,3 @@
 <?php
 echo 'test';
-echo 'test';
+echo 'some new sttring';
